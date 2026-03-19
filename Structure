@@ -1,0 +1,8 @@
+data-cleaning-ml/
+│
+├── data/
+    └── student_performance_prediction.csv
+├── output/
+  └── test.ipynb  
+├── README.md
+├── requirements.txt
