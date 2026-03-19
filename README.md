@@ -47,4 +47,4 @@ jupyter notebook
 
 ## 📎 Author
 
-@Mazen Maher 
+[@Mazen Maher ](https://github.com/mazen259)
