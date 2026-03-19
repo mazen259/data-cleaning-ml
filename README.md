@@ -5,11 +5,7 @@
 This project focuses on cleaning and preprocessing a dataset for Machine Learning.
 
 ## 📂 Dataset
-
-* Source: (اكتب المصدر لو عندك)
-* Type: CSV file
-* Contains: (عدد الأعمدة + وصف بسيط)
-
+* Source:https://www.kaggle.com/datasets/souradippal/student-performance-prediction?resource=download
 ## ⚙️ Steps Performed
 
 * Handling missing values
